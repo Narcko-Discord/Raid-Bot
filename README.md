@@ -1,2 +1,8 @@
 # Raid-Bot
-Un bot pour raid un serveur qui spam webhook et message
+Script Open Source
+- 🎈 
+Open Index.js
+Remplissez vos infos token et texte
+Clickez sur install.bat
+ET
+Start.bat
